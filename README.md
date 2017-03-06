@@ -1,2 +1,0 @@
-# mvsdigital
-GitHub Pages
