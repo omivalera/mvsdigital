@@ -1869,7 +1869,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
   .mbr-arrow-up a {
     background: rgba(0, 0, 0, 0.2);
     border-radius: 3px;
-    color: #fff;
+    color: #9fbe39;
     display: inline-block;
     height: 46px;
     outline-style: none !important;
@@ -1879,7 +1879,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
     width: 46px;
     cursor: pointer; }
     .mbr-arrow-up a:hover {
-      background: #2d2d2d; }
+      background: #9fbe39; }
   .mbr-arrow-up-icon {
     display: block; }
     .mbr-arrow-up-icon::before {

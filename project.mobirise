@@ -22,10 +22,16 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 35,
+    "uniqCompNum": 36,
     "versionPublish": "3.12.1",
     "favicon": "",
-    "noImageResize": "true"
+    "noImageResize": "true",
+    "publishFtpPath": "public_html",
+    "publishType": "github",
+    "publishPath": "@PROJECT_PATH@",
+    "gitHubName": "omivalera",
+    "gitHubPath": "mvsdigital",
+    "path": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -81,7 +87,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ffffff!important"
+              "color": "@primaryColor!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -94,8 +100,11 @@
               "background-color": "#93c022"
             }
           },
+          "_tags": [
+            "Theme"
+          ],
           "_name": "menu",
-          "_anchor": "menu-0",
+          "_anchor": "menu-z",
           "_params": {
             "bgColor": "#404040",
             "fontSize": "1.2",
@@ -106,13 +115,13 @@
             "sticky": true,
             "logo": true,
             "showBrand": true,
-            "collapsed": true,
+            "collapsed": false,
             "hideButtons": true
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mvs-2-189x128.png",
+              "src": "file:///C:/Users/Prometheus/AppData/Local/Mobirise.com/Mobirise/projectData/mvs-2-189x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",

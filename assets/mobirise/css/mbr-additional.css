@@ -499,7 +499,7 @@ h6,
 }
 #social-buttons2-5 .mbr-section-title,
 #social-buttons2-5 .btn-social {
-  color: #232323;
+  color: #88b025;
 }
 #social-buttons2-5 .mbr-section-title {
   color: #ffffff;
@@ -544,13 +544,13 @@ h6,
 #menu-9 .nav-dropdown-sm .link:hover,
 #menu-9 .nav-dropdown-sm .dropdown-item:focus,
 #menu-9 .nav-dropdown-sm .dropdown-item:hover {
-  background: #383838!important;
+  background: rgba(34, 34, 34, 0.45);
 }
 #menu-9 .navbar,
 #menu-9 .nav-dropdown-sm,
 #menu-9 .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-9 .nav-dropdown-sm .dropdown-menu {
-  background: #404040;
+  background: rgba(34, 34, 34, 0.45);
 }
 #menu-9 .bg-color.transparent .link {
   color: #93c022;
